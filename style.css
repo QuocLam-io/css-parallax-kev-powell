@@ -1,3 +1,6 @@
+/* ADD "CONTAIN: PAINT", supposedly it makes it so that any of the descendants cannot leave the parent */
+
+
 .parallax {
   /* overflow: hidden; */
   position: relative;
